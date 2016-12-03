@@ -25,7 +25,7 @@ SECRET_KEY = 'bxe_c#!2_@u7_ctw-$*zwa3y^25#^pbtc8qib5u)2&3to-9s%w'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 
 # Application definition
