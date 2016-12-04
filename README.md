@@ -12,8 +12,8 @@ Salt stack activates the virtualenv and runs django-admin.py startpoject which p
 This is a project for the Automation course at Hogeschool Utrecht.
 
 ##Contributors
-
-Marco
+- Arif
+- Marco
 
 ##License
 
