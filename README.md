@@ -5,7 +5,7 @@ A Project webapplication for Django 1.10.4
 
 ##Creating the project
 
-Salt stack activates the virtualenv and runs django-admin.py startpoject which points at this git repo.
+Salt stack activates the virtualenv and runs django-admin.py startproject which points at this git repo.
 
 ##Motivation
 
