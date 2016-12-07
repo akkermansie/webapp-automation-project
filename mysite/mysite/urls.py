@@ -25,7 +25,7 @@ urlpatterns = [
 	url(r'^monitoring/', include('monitoring.urls')),
 ]
 
-admin.site.site_header = 'MENNO Administratie'
+admin.site.site_header = 'MENNO Administratie paneel'
 admin.site.site_title = 'MENNO'
 admin.site.index_title = 'Administratie paneel'
 
